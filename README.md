@@ -1,6 +1,6 @@
 # tmt-team
 
-Team of Misfit Toys site: https://kagazzie.github.io/tmt-team/
+Team of Misfit Toys site: https://team-misfit-toys.github.io/tmt-team/
 
 Built from [TMT: Volleyball Hub](https://github.com/KagazzIe/TMT-VolleyballHub) (`@v1`). This repo holds our data;
 pushing to `main` redeploys the site.
