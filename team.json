@@ -16,5 +16,9 @@
     "Hit",
     "Block",
     "Funny"
+  ],
+  "tags": [
+    "Good",
+    "Bad"
   ]
 }
